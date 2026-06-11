@@ -162,7 +162,7 @@ Demonstrates how data analytics and business intelligence techniques can be appl
 📌 Player Profile Dashboard
 
 
-[IPL Overview Dashboard](Snapshot of IPL Overview Dashboatrd.png)
+[IPL Overview Dashboard][(https://github.com/AbhishekPatil36/IPL-Performance-Analysis-Dashboard/blob/main/Snapshot%20of%20IPL%20Overview%20Dashboatrd.png))
 
 [Player Profile Dashboard]([images/player_profile_dashboard.png](https://github.com/AbhishekPatil36/IPL-Performance-Analysis-Dashboard/blob/main/Snapshot%20of%20Player's%20Profile%20Dashboard.png))
 
